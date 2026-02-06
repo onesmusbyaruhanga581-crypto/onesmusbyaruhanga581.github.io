@@ -120,7 +120,7 @@
   <!-- Slideshow -->
   <div class="slideshow-container">
     <div class="slides">
-      <img src="photo1.jpg" alt="Us together">
+      <img src="![Image](https://github.com/user-attachments/assets/35300ebb-7d06-444a-befd-6c18ccc4790c)" alt="Us together">
     </div>
     <div class="slides">
       <img src="photo2.jpg" alt="Smiling moment">
