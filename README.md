@@ -126,7 +126,7 @@
       <img src="![Image](https://github.com/user-attachments/assets/7e80ac8d-8f29-43f8-bc59-e1602158aa07)" alt="Smiling moment">
     </div>
     <div class="slides">
-      <img src="photo3.jpg" alt="Special memory">
+      <img src=![Image](https://github.com/user-attachments/assets/f2beab3c-c29d-4c53-b405-bb147a4e3049)"" alt="Special memory">
     </div>
     <a class="prev" onclick="plusSlides(-1)">❮</a>
     <a class="next" onclick="plusSlides(1)">❯</a>
