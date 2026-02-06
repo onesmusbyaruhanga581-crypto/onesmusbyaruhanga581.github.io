@@ -123,7 +123,7 @@
       <img src="![Image](https://github.com/user-attachments/assets/a5d67d76-423e-45e8-9132-67c0e94017c7)" alt="Us together">
     </div>
     <div class="slides">
-      <img src="photo2.jpg" alt="Smiling moment">
+      <img src="![Image](https://github.com/user-attachments/assets/7e80ac8d-8f29-43f8-bc59-e1602158aa07)" alt="Smiling moment">
     </div>
     <div class="slides">
       <img src="photo3.jpg" alt="Special memory">
